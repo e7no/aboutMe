@@ -35,7 +35,7 @@ body h1,h2,h3,h4,h5,h6{
 }
 .logo h1 {
     margin: 0;
-    text-transform: uppercase;
+    text-transform: none;
     font-weight: bold;
      color:#fff;
 }
@@ -763,16 +763,19 @@ ul.year li {
     display: block;
 }
 ul.year li:nth-child(2){
-	    margin-top: 119px;
+	    margin-top: 72px;
 }
 ul.year li:nth-child(3){
-	    margin-top: 129px;
+	    margin-top: 72px;
 }
 ul.year li:nth-child(4){
-	    margin-top: 116px;
+	    margin-top: 70px;
 }
 ul.year li:nth-child(5){
-	    margin-top: 112px;
+	    margin-top: 72px;
+}
+ul.year li:nth-child(6){
+	    margin-top: 72px;
 }
 .timeline-badge.success i {
     font-size: 0.9em;
